@@ -1,6 +1,8 @@
-/Binaries/
-/Content/
-/Intermediate/
-/Saved/
+/Binaries
+/Config
+/Intermediate
+/Saved
+/Content
+/DerivedDataCache
 
-.gitattributes
+/.gitattributes
