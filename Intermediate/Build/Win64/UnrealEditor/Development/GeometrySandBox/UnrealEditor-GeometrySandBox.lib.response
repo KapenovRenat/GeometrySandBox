@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GeometrySandBox.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GameDev\UE_5.0_Projects\GeometrySandBox\Intermediate\Build\Win64\GeometrySandBoxEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\GameDev\UE_5.0_Projects\GeometrySandBox\Intermediate\Build\Win64\UnrealEditor\Development\GeometrySandBox\BaseGeometryActor.cpp.obj"
+"D:\GameDev\UE_5.0_Projects\GeometrySandBox\Intermediate\Build\Win64\UnrealEditor\Development\GeometrySandBox\GeometrySandBox.cpp.obj"
+"D:\GameDev\UE_5.0_Projects\GeometrySandBox\Intermediate\Build\Win64\UnrealEditor\Development\GeometrySandBox\GeometrySandBoxGameModeBase.cpp.obj"
+"D:\GameDev\UE_5.0_Projects\GeometrySandBox\Intermediate\Build\Win64\UnrealEditor\Development\GeometrySandBox\BaseGeometryActor.gen.cpp.obj"
+"D:\GameDev\UE_5.0_Projects\GeometrySandBox\Intermediate\Build\Win64\UnrealEditor\Development\GeometrySandBox\GeometrySandBox.init.gen.cpp.obj"
+"D:\GameDev\UE_5.0_Projects\GeometrySandBox\Intermediate\Build\Win64\UnrealEditor\Development\GeometrySandBox\GeometrySandBoxGameModeBase.gen.cpp.obj"
+"D:\GameDev\UE_5.0_Projects\GeometrySandBox\Intermediate\Build\Win64\UnrealEditor\Development\GeometrySandBox\Default.rc2.res"
+/OUT:"D:\GameDev\UE_5.0_Projects\GeometrySandBox\Intermediate\Build\Win64\UnrealEditor\Development\GeometrySandBox\UnrealEditor-GeometrySandBox.lib"
